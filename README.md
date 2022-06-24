@@ -1,16 +1,6 @@
-# animator1
+# BMI Calculator | Animation | UI/UX
 
-A new Flutter project.
+this is a an BMI calculator with best Ui/ux use or animation.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![animation-1](https://user-images.githubusercontent.com/90972632/175450747-a958e56f-38c2-443f-bcf1-9ed1b1717ff1.gif)
